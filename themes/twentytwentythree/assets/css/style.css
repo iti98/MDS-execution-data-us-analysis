@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Owners wide bold';
+    src: url('./../../../owners-wide-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Owners wide';
+    src: url('./../../../owners-wide.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat bold';
+    src: url('./../../../Montserrat-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat medium';
+    src: url('./../../../Montserrat-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title{
+    font-family: 'Owners wide bold', sans-serif;
+    letter-spacing: 0;
+    font-size: 55px;
+}
